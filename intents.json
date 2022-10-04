@@ -13,6 +13,12 @@
 "responses": ["Hello, this chat bot is designed to answer basic questions about Chamber Toastmasters.\nHow may I help?","Hi there.\nThis chat bot is designed to answer basic questions about Chamber Toastmasters.\n<a href=https://www.chambertoastmasters.club>Chamber Toastmasters</a>"],
 "context": [""]
 },
+      
+{"tag": "wibu",
+"patterns": ["Gilang", "Gilang Ramadhan", "Siapa Gilang"],
+"responses": ["Nubi, cuman bisa wanwan"],
+"context": [""]
+},
 
 {"tag": "learn",
 "patterns": ["learn", "What will I learn?"],
