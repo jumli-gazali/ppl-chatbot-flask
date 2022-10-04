@@ -14,11 +14,6 @@
 "context": [""]
 },
       
-{"tag": "wibu",
-"patterns": ["Gilang", "Gilang Ramadhan", "Siapa Gilang"],
-"responses": ["Nubi, cuman bisa wanwan"],
-"context": [""]
-},
 
 {"tag": "learn",
 "patterns": ["learn", "What will I learn?"],
